@@ -26,7 +26,7 @@ export const testServer:string = "TEST_SERVER_ID"
 ```
  # Custimization 
  
- ## Tailwind Config
+ ## base command setup
  ```js
  import { ICommand } from 'wokcommands'
 
