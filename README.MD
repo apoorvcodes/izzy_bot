@@ -1,4 +1,4 @@
-# React Tailwind Starter
+# Izzy Bot
 
 <p align="center">
   <img src="https://cdn.discordapp.com/attachments/847334009838632980/892632184509321286/images_1.png" alt="react+tailwind">
